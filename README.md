@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soumyagupta2854
+- 👋 Hi, I’m Soumya Gupta @Soumyagupta2854
 - 👀 I’m interested in iot, cyber security.
 - 🌱 I’m currently learning python, c++.
 - 💞️ I’m looking to collaborate on real life projects.
