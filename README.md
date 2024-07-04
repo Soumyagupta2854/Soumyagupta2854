@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumya Gupta @Soumyagupta2854
 - 👀 I’m interested in iot, cyber security.
-- 🌱 I’m currently learning python, c++.
+- 🌱 I’m currently learning python, mern, java, frontend.
 - 💞️ I’m looking to collaborate on real life projects.
 - 📫 How to reach me mail me soumya2854@gmail.com
 
